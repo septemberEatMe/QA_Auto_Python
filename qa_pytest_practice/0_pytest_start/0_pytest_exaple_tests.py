@@ -1,9 +1,11 @@
+second_test_string = "Second Test"
+
 def test_one():
     print("\n First Test Here")
 
 
 def test_two():
-    pass
+    print(f"\n{second_test_string}")
 
 
 class TestClass:
