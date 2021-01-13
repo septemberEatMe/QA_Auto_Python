@@ -1,0 +1,17 @@
+1610547616194	geckodriver	INFO	Listening on 127.0.0.1:46021
+1610547617199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelmwo6X"
+
+(firefox-esr:8164): Gtk-WARNING **: 17:20:17.225: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:8329): Gtk-WARNING **: 17:20:18.871: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:8346): Gtk-WARNING **: 17:20:18.999: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1610547621326	Marionette	INFO	Listening on port 46083
+1610547621418	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:8434): Gtk-WARNING **: 17:20:23.107: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1610547627706	Marionette	INFO	Stopped listening on port 46083
